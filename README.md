@@ -1,79 +1,99 @@
-<h1 align="center">👋 Olá, eu sou o Arthur!</h1>
-'
-<img src="https://github.com/Acamaz48/salvar.png" width="100%" alt="Banner tecnológico">
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 💻 Sobre mim:
-- 👨‍🎓 Estudante de Engenharia da Computação | IBMEC
-- 🔹 Habilidades: Python, C++, Java, JavaScript, HTML, CSS
-- 📊 Dados & IA: Power BI, Machine Learning, Análise de Dados
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">👋 Olá, eu sou o Arthur!</h1></summary>
+  </ul>
+</div>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Seja bem-vindo ao meu perfil! 🚀</h2></summary>
+  </ul>
+</div>
+
+<!--Intro start-->
+- 👨‍🎓 **Estudante de Engenharia da Computação** | IBMEC
+- 💻 **Habilidades:** Python, C++, Java, JavaScript, HTML, CSS
+- 📊 **Dados & IA:** Power BI, Machine Learning, Análise de Dados
 
 ### 🚀 Meus Projetos:
 🔹 [Programa Orientado a Objetos](https://github.com/Acamaz48/Programa-o-Orientada-a-Objetos)  
 🔹 [Projeto Dev Web](https://github.com/Acamaz48/Projeto-Dev-Web)  
 🔹 [Engie.Dados](https://github.com/Acamaz48/Engie.Dados)  
 
----
+<!--- stats & Trophy (start) -->
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Acamaz48&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arthur streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Acamaz48&theme=dark&hide_border=false" /> 
+</td>
 
-### ⚡ Tecnologias e Ferramentas:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Acamaz48&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+</tr>
+</table>
 
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Acamaz48&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
+</div>
+</p>        
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologias Que Uso 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,postgres,prisma,firebase,github,html,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
 
-
-
-
-
-## Seja bem vindo ao meu perfil do github.👾🤖
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
-
-```javascript
-const Lukas = {
-    code: ["Javascript", "Python", "c", "css", "c++"],
-    askMeAbout: ["web dev", "tech", "data"],
-    currentFocus: ["Front end Development", "DevOps", "Cybersecurity", "Networks"],
-    funFact: ["existem dois modos de escrever um código sem errar, mas só o terceiro modo está correto"],
-};
-```
-### Meu nome é Lukas, sou estudante de Engenharia de Software pela Alura e Engenharia da Computação👨🏻‍💻 pelo Ibmec(unidade barra), atualmente estou no sexto periodo, tenho conhecimentos em desenvolvimento front end, DevOps, redes de computadores, segurança da informação, arquitetura de computadores, estruturas de dados e algoritmos, e nas linguagens citadas neste readme, abaixo você irá encontrar alguns de meus projetos e também um link para meu perfil no LinkdIn e meu instagram para melhor contato.
-
-#### Estou aprendendo sobre:
-[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,py,mongodb,docker,react,cpp,c)](https://skillicons.dev)<br/>
-
-### Projetos
-
-[![](https://img.shields.io/badge/-🚀%20Meu%20Currículo-000)](https://lukasdsouza.github.io/meu_curriculo/)
-[![](https://img.shields.io/badge/-🚀%20Projeto%20front_end-000)](https://lukasdsouza.github.io/proj_front_end/)
-[![](https://img.shields.io/badge/-🚀%20Projeto%20Elenco_Botafogo-000)](https://lukasdsouza.github.io/ap2_dev_web/)
-[![](https://img.shields.io/badge/-🚀%20Projeto%20Landing%20Page%20DNC-000)](https://lukasdsouza.github.io/Landing_page_full_stack_DNC/)
-[![](https://img.shields.io/badge/-🚀%20Projeto%20Landing%20Page%20Arquitetura-000)](https://projlandingpagearquitetura.netlify.app/)
-[![](https://img.shields.io/badge/-🚀%20Projeto%20Portfólio%20Template-000)](https://portfolio-template27.netlify.app/)
-[![](https://img.shields.io/badge/-🚀%20Bootcamp%20Landing%20Page%20Model-000)](https://lukasdsouza.github.io/bootcamp_landing_page/)
-
-### Tecnologias
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-
-<div align="center">
-  <a href="https://github.com/lukasdsouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasdsouza&layout=compact&langs_count=7&theme=dracula"/>
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Conecte-se Comigo 🤝</h2></summary>
+  </ul>
 </div>
 
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/seu-linkedin" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/seu-twitter" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/seu-instagram" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/seu-discord" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+</p>
 
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=Acamaz48&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+----------------------------------------------------------------------
+Credit: [Acamaz48](https://github.com/Acamaz48)
 
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📫 Entre em contato:
-📧 Email: arthurcamaz05@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/arthur-camaz-302a72288/)  
+Last Edited on: 26/02/2025
