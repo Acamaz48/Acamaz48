@@ -27,11 +27,11 @@
 - 📊 **Dados & IA:** Power BI, Machine Learning, Análise de Dados
 
 ### 🚀 Meus Projetos:
-🔹 [Programa Orientado a Objetos](https://github.com/Acamaz48/Programa-o-Orientada-a-Objetos)  
-🔹 [Projeto Dev Web](https://github.com/Acamaz48/Projeto-Dev-Web)  
-🔹 [Engie.Dados](https://github.com/Acamaz48/Engie.Dados)  
-🔹 [Projeto Embarcados](https://github.com/Acamaz48/Projeto-Balan-a-) 
-🔹 [Projeto Lixeira Inteligente](https://github.com/Acamaz48/Project-Lixeira-Inteligente-)
+🔹 [Programa Orientado a Objetos](https://github.com/Acamaz48/Programa-o-Orientada-a-Objetos)   <br></br>
+🔹 [Projeto Dev Web](https://github.com/Acamaz48/Projeto-Dev-Web)   <br></br>
+🔹 [Engie.Dados](https://github.com/Acamaz48/Engie.Dados)   <br></br>
+🔹 [Projeto Embarcados](https://github.com/Acamaz48/Projeto-Balan-a-) <br></br>
+🔹 [Projeto Lixeira Inteligente](https://github.com/Acamaz48/Project-Lixeira-Inteligente-) <br></br>
  
 
 
