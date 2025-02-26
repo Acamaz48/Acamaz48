@@ -30,6 +30,12 @@
 🔹 [Programa Orientado a Objetos](https://github.com/Acamaz48/Programa-o-Orientada-a-Objetos)  
 🔹 [Projeto Dev Web](https://github.com/Acamaz48/Projeto-Dev-Web)  
 🔹 [Engie.Dados](https://github.com/Acamaz48/Engie.Dados)  
+🔹 [Projeto Embarcados](https://github.com/Acamaz48/Projeto-Balan-a-) 
+🔹 [Projeto Lixeira Inteligente](https://github.com/Acamaz48/Project-Lixeira-Inteligente-)
+ 
+
+
+
 
 <!--- stats & Trophy (start) -->
 <p align="center">
