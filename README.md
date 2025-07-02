@@ -1,6 +1,6 @@
-<!-- Banner com seu nome -->
+<!-- Banner com fundo azul e nome fixo -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Arthur+Camaz+Pinto" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=150&section=header&text=Arthur%20Camaz%20Pinto&fontSize=35&fontColor=fff&animation=fadeIn" alt="Banner"/>
 </p>
 
 <p align="center">
@@ -12,6 +12,26 @@
   <img src="https://img.shields.io/github/followers/Acamaz48?label=Seguidores&style=social" alt="GitHub Followers"/>
   <img src="https://img.shields.io/badge/Code%20Everyday-Yes!-orange?logo=github-actions" />
 </p>
+
+---
+
+## 🏆 Minhas Conquistas
+
+- ![Badge](https://img.shields.io/badge/100%2B%20commits-Ativo%20diariamente-orange)
+- ![Badge](https://img.shields.io/badge/Power%20BI-Pro-black)
+- ![Badge](https://img.shields.io/badge/Tetris-Master-blue)
+- ![Badge](https://img.shields.io/badge/Curiosidade-Infinita-yellow)
+- ![Badge](https://img.shields.io/badge/Criatividade-Always-green)
+- ![Badge](https://img.shields.io/badge/Vivendo%20e%20Aprendendo-🧠🚀-blue)
+
+---
+
+## 🕰️ Linha do Tempo de Evolução
+
+- 🚀 **2022** — Comecei Engenharia da Computação no IBMEC
+- 🐍 **2023** — Aprendi Python e desenvolvi meu primeiro projeto de análise de dados
+- 💡 **2024** — Entrei no mundo de IA e Power BI
+- 🤖 **2025** — Desenvolvendo projetos inteligentes e colaborando em times incríveis
 
 ---
 
@@ -46,19 +66,6 @@
 - 🎲 Adoro desafios matemáticos e jogos de lógica.
 - 🏃‍♂️ Pratico esportes para equilibrar mente e corpo.
 - 👾 Fã de cultura pop, animes e tecnologia retrô.
-
----
-
-## 📈 Estatísticas & Atividade
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Acamaz48&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Acamaz48&theme=react-dark&hide_border=true&area=true" alt="Atividade do GitHub"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Acamaz48&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acamaz48&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
 
 ---
 
