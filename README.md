@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-blueviolet?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-f2c811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -87,6 +87,5 @@
 ---
 
 <p align="center">
-  <i>“Os engenheiros gostam de resolver problemas. Se não houver problemas disponíveis, eles os criarão.”</i>  
-  <br>— Scott Adams
+  <i>"Engenharia é a arte de direcionar grandes energias para pequenos detalhes."<br>— Samuel C. Florman</i>
 </p>
