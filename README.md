@@ -40,7 +40,6 @@
 - [Engie.Dados](https://github.com/Acamaz48/Engie.Dados)
 - [Projeto Embarcados](https://github.com/Acamaz48/Projeto-Balan-a-)
 - [Projeto Lixeira Inteligente](https://github.com/Acamaz48/Project-Lixeira-Inteligente-)
-- [Projeto Vivere Entretenimento](https://github.com/Acamaz48/Vivere)
 
 ---
 
